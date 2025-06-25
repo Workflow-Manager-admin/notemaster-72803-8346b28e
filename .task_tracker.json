@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A notes app where users can create, edit, and manage their notes.', 'containers': [{'container_name': 'android_frontend', 'platform': 'mobile', 'framework': 'android', 'description': 'Provides the user interface for the notes app on Android devices.', 'interfaces': 'Native Android UI', 'workspace': 'android_frontend_workspace', 'container_root': 'android_frontend_workspace/android_frontend', 'dependencies': [], 'container_type': 'mobile', 'container_details': {'features': ['Create notes', 'Edit notes', 'Delete notes', 'List notes', 'Search notes'], 'colors': {'primary': '#3F51B5', 'secondary': '#FF9800', 'accent': '#4CAF50'}, 'theme': 'light', 'layout_description': 'A main list view of notes with a floating action button for adding new notes. Detail screens for viewing and editing notes.', 'style': 'minimalistic'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}

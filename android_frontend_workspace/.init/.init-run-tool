@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/notemaster-72803-8346b28e/android_frontend_workspace/android_frontend"
+}
